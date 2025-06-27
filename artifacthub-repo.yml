@@ -1,0 +1,8 @@
+# Artifact Hub repository metadata file
+# Used to become verified publisher and more - https://artifacthub.io/docs/topics/repositories/#verified-publisher
+#repositoryID: <to-be-filled-out-after-ownership-claim>
+owners:
+  - name: Ervin Racz 
+    email: ervcz@users.noreply.github.com
+  - name: Tyler Auerbeck
+    email: tylerauerbeck@users.noreply.github.com
