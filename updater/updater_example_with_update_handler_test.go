@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/kinvolk/nebraska/updater"
+	"github.com/flatcar/nebraska/updater"
 )
 
 type exampleUpdateHandler struct{}

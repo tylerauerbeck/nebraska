@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/kinvolk/nebraska/updater"
+	"github.com/flatcar/nebraska/updater"
 )
 
 func someFunctionThatDownloadsAFile(_ context.Context, _ string) (string, error) {
